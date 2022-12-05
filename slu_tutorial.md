@@ -10,7 +10,7 @@ Organised by The University Of Sydney, The University Of Western Australia
 
 ## Resource
 - Tutorial Slides: [Google Slide Link](https://docs.google.com/presentation/d/13UvGk3Ho14xNO7wyjNLiNnPxYQT63rWdgGGJRE1M7Tc/edit?usp=sharing)
-- Hands-on Code: [Google Colab Link](https://colab.research.google.com/drive/16Tltc0QenU1d76xvi2YzVyJvFUrzU1KX?usp=sharing)
+- Hands-on Code: [Google Colab Link](https://github.com/adlnlp/adlnlp.github.io/blob/main/ajcai_tutorial_2022.pdf)
 
 ## Abstract
 When a human speaks to a machine how does the latter elicit meaning from the communication? This is an important AI task as it enables the machine to construct a sensible answer or perform a useful action for the human. Meaning is represented at the sentence level, identification of which is known as intent detection, and at the word level, a labelling task called slot filling. This dual level joint task requires innovative thinking about natural language and deep learning network design and as a result many approaches have been tried. 
